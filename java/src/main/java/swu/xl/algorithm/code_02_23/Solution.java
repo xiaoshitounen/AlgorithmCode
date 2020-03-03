@@ -1,6 +1,6 @@
 package swu.xl.algorithm.code_02_23;
 
-public class MyClass {
+public class Solution {
     public static void main(String[] args) {
 
     }
