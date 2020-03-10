@@ -17,6 +17,10 @@ public class Solution {
         }
     }
 
+    /**
+     * 测试
+     * @param args
+     */
     public static void main(String[] args) {
         char[] s = {'h', 'e', 'l', 'l', 'o'};
 
