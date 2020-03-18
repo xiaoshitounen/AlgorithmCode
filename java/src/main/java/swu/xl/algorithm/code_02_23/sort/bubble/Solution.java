@@ -3,6 +3,7 @@ package swu.xl.algorithm.code_02_23.sort.bubble;
 public class Solution {
     /**
      * 冒泡排序
+     * @param nums
      */
     public static void bubbleSort(int[] nums){
         //标志
@@ -33,7 +34,7 @@ public class Solution {
      * 测试程序
      */
     public static void main(String[] args) {
-        int[] nums = new int[]{4,3,5,2,1};
+        int[] nums = new int[]{9,7,8,10,6,4,3,5,2,1};
 
         //冒泡
         bubbleSort(nums);
