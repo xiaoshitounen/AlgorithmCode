@@ -15,6 +15,4 @@ public class HanoiTest {
         Tower C = new Tower("C");
         Hanoi.move(A, B, C);
     }
-
-    //222017602053039许磊
 }
