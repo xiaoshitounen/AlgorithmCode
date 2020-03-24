@@ -95,6 +95,7 @@ public class Solution {
 
     /**
      * 测试程序
+     * @param args
      */
     public static void main(String[] args) {
         int[] nums = smallestK(new int[]{1, 3, 5, 7, 2, 4, 6, 8}, 4);
