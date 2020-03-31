@@ -18,7 +18,7 @@ public class Solution {
         //当前位置可盗窃的最大值
         int[] dp = new int[length+1];
 
-        //一些初始值的优化
+        //初始值的优化
         dp[0] = 0;
         dp[1] = num[0];
 
