@@ -11,7 +11,7 @@ public class StockBuySell {
      * @param prices
      * @return
      */
-    static int[] getByBruteForce(int[] prices) {
+    public static int[] getByBruteForce(int[] prices) {
         //存储 最大收益 购买时间 卖出时间的变量
         int maxSum = 0,startIndex = 0,endIndex = 0;
 
