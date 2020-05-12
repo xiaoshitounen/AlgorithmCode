@@ -24,7 +24,7 @@ public class RodCut {
             rod_value[i] = cut_value[Math.min(i,cut_value.length-1)];
 
             //依次比较
-            for (int j = 0; j < i / 2; j++) {
+            for (int j = 0; j <= i-j-1; j++) {
                 rod_value[i] = Math.max(
                         rod_value[i],
                         rod_value[j] + rod_value[i-j-1]
@@ -61,7 +61,7 @@ public class RodCut {
         rod_value[rod_length-1] = cut_value[Math.min(rod_length-1,cut_value.length-1)];
 
         //依次比较
-        for (int j = 0; j < (rod_length-1) / 2; j++) {
+        for (int j = 0; j <= (rod_length-1) - j -1; j++) {
             rod_value[rod_length-1] = Math.max(
                     rod_value[rod_length-1],
                     getValueByMemoization(cut_value,j+1,rod_value) +
