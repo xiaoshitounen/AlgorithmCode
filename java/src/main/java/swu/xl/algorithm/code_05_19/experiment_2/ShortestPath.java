@@ -3,9 +3,7 @@ package swu.xl.algorithm.code_05_19.experiment_2;
 import java.util.HashMap;
 import java.util.LinkedList;
 
-import swu.xl.algorithm.code_04_28.experiment_1.ShortestPath;
-
-public class Dijkstra {
+public class ShortestPath {
     /**
      * 迪杰斯特拉算法-求解带权有向图的最短路径问题
      * @param routeGraph

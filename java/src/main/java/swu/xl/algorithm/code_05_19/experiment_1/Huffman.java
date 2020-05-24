@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.PriorityQueue;
 import java.util.Set;
 
-public class HuffmanCoding {
+public class Huffman {
     public static HashMap<String,String> getCodes(String[] chars, double[] frequency){
         //优先队列
         PriorityQueue<Node> nodes = new PriorityQueue<>();
