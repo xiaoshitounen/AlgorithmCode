@@ -17,17 +17,20 @@ public class NodeWithShortestPathInRankedList extends NodeWithShortestPath {
 
         //判断是否需要交换位置
         while (previous != null && route_length < previous.route_length){
-            NodeWithShortestPathInRankedList tempPrevious = this.previous;
+            NodeWithShortestPathInRankedList tempPrevious = this.previous.previous;
             if (this.previous.previous.next != null){
                 this.previous.previous.next = this;
             }
 
+            if (this.next != null){
+                this.next.previous = this.previous;
+            }
+
             //交换数据
-            this.next.previous = this.previous;
             this.previous.previous = this;
             this.previous.next = this.next;
-            this.next = tempPrevious;
-            this.previous = tempPrevious.previous;
+            this.next = this.previous;
+            this.previous = tempPrevious;
         }
     }
 }
