@@ -7,7 +7,7 @@ import java.util.PriorityQueue;
 
 public class MinSpanningTree {
     /**
-     * Prim算法求解最小生成树-结点贪心算法
+     * Prim算法求解最小生成树-节点贪心算法
      * @param graph
      * @return
      */
@@ -35,7 +35,6 @@ public class MinSpanningTree {
             previous = newNode;
         }
 
-        //
         while (unsettled != null){
             //如果不是第一个点就加入已决集
             if (!unsettled.name.equals(startVertex)){

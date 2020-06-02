@@ -1,5 +1,8 @@
 package swu.xl.algorithm.code_05_26.experiment_1;
 
+/**
+ * 带有边值的连边类
+ */
 public class EdgeWithLength extends Edge implements Comparable<EdgeWithLength> {
     int length;
 
