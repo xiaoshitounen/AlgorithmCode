@@ -41,3 +41,6 @@
 - **code_05_19：贪心算法，哈夫曼编码问题，单源最短路径问题等**--[算法分析设计-贪心算法](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/#more)
 
 - **code_06_02：回溯算法，8皇后问题等**---[算法分析设计-回溯算法](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/#more)
+
+- **code_06_09：回溯算法，背包问题等**---[算法分析设计-回溯算法](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/#more)
+
