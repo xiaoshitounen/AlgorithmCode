@@ -12,41 +12,41 @@
 
 ## 目录
 
-- **code_02_23: 十大排序+一个简单的力扣测试题**---[数据结构-十大排序算法](https://fanandjiu.com/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E5%85%AB%E5%A4%A7%E6%8E%92%E5%BA%8F/)
+- **code_02_23: 十大排序+一个简单的力扣测试题**---[数据结构-十大排序算法](http://www.fanandjiu.com/article/b8e830a4.html)
 
-- **code_02_05: 关于算法 的实验代码：斐波那锲数列，最大公约（因）数**---[算法分析设计-关于算法](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E5%85%B3%E4%BA%8E%E7%AE%97%E6%B3%95/)
+- **code_02_05: 关于算法 的实验代码：斐波那锲数列，最大公约（因）数**---[算法分析设计-关于算法](http://www.fanandjiu.com/article/89982487.html)
 
-- **code_03_03: 复杂度分析 的实验代码：二分查找**---[算法分析设计-复杂度分析](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/)
+- **code_03_03: 复杂度分析 的实验代码：二分查找**---[算法分析设计-复杂度分析](http://www.fanandjiu.com/article/982b9001.html)
 
-- **code_03_10：算法思维 的实验代码：交通灯的信号设计**---[算法分析设计-算法思维](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4/)
+- **code_03_10：算法思维 的实验代码：交通灯的信号设计**---[算法分析设计-算法思维](http://www.fanandjiu.com/article/8daab87d.html)
 
-- **code_03_17：递归，分治1 的实验代码：汉诺塔，全排列等**---[算法分析设计-递归与分治策略](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E9%80%92%E5%BD%92%EF%BC%8C%E5%88%86%E6%B2%BB/)
+- **code_03_17：递归，分治1 的实验代码：汉诺塔，全排列等**---[算法分析设计-递归与分治策略](http://www.fanandjiu.com/article/f11fe2e6.html)
 
-- **code_03_24：递归，分治2 的实验代码：归并排序，快速排序等**--[算法分析设计-递归与分治策略](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E9%80%92%E5%BD%92%EF%BC%8C%E5%88%86%E6%B2%BB/)
+- **code_03_24：递归，分治2 的实验代码：归并排序，快速排序等**--[算法分析设计-递归与分治策略](http://www.fanandjiu.com/article/f11fe2e6.html)
 
-- **code_03_31：递归，分治3 的实验代码：第k小问题，赛程安排等**--[算法分析设计-递归与分治策略](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E9%80%92%E5%BD%92%EF%BC%8C%E5%88%86%E6%B2%BB/)
+- **code_03_31：递归，分治3 的实验代码：第k小问题，赛程安排等**--[算法分析设计-递归与分治策略](http://www.fanandjiu.com/article/f11fe2e6.html)
 
-- **code_04_07：递归，分治4 的实验代码：最近点对，投资问题等**--[算法分析设计-递归与分治策略](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E9%80%92%E5%BD%92%EF%BC%8C%E5%88%86%E6%B2%BB/)
+- **code_04_07：递归，分治4 的实验代码：最近点对，投资问题等**--[算法分析设计-递归与分治策略](http://www.fanandjiu.com/article/f11fe2e6.html)
 
-- **code_04_14：动态规划，跳跃问题，最大子串和，切木材，最长公共子序列等**--[算法分析设计-动态规划](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/#more)
+- **code_04_14：动态规划，跳跃问题，最大子串和，切木材，最长公共子序列等**--[算法分析设计-动态规划](http://www.fanandjiu.com/article/17e75193.html)
 
-- **code_04_21：动态规划，切木材，最长公共子序列，最短路径等**--[算法分析设计-动态规划](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/#more)
+- **code_04_21：动态规划，切木材，最长公共子序列，最短路径等**--[算法分析设计-动态规划](http://www.fanandjiu.com/article/17e75193.html)
 
-- **code_04_28：动态规划，最短路径，矩阵连续乘，0-1背包问题等**--[算法分析设计-动态规划](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/#more)
+- **code_04_28：动态规划，最短路径，矩阵连续乘，0-1背包问题等**--[算法分析设计-动态规划](http://www.fanandjiu.com/article/17e75193.html)
 
-- **code_05_09：动态规划，凸多边形最优三角剖分问题,最优二叉搜索树等**--[算法分析设计-动态规划](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/#more)
+- **code_05_09：动态规划，凸多边形最优三角剖分问题,最优二叉搜索树等**--[算法分析设计-动态规划](http://www.fanandjiu.com/article/17e75193.html)
 
-- **code_05_12：贪心算法，切木材问题，活动选择问题，最优装载问题等**--[算法分析设计-贪心算法](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/#more)
+- **code_05_12：贪心算法，切木材问题，活动选择问题，最优装载问题等**--[算法分析设计-贪心算法](http://www.fanandjiu.com/article/1b246070.html)
 
-- **code_05_19：贪心算法，哈夫曼编码问题，单源最短路径问题等**--[算法分析设计-贪心算法](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/#more)
+- **code_05_19：贪心算法，哈夫曼编码问题，单源最短路径问题等**--[算法分析设计-贪心算法](http://www.fanandjiu.com/article/1b246070.html)
 
-- **code_05_26：贪心算法，最小生成树问题等**--[算法分析设计-贪心算法](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/#more)
+- **code_05_26：贪心算法，最小生成树问题等**--[算法分析设计-贪心算法](http://www.fanandjiu.com/article/1b246070.html)
 
-- **code_06_02：回溯算法，8皇后问题等**---[算法分析设计-回溯算法](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/#more)
+- **code_06_02：回溯算法，8皇后问题等**---[算法分析设计-回溯算法](http://www.fanandjiu.com/article/88875984.html)
 
-- **code_06_09：回溯算法，0-1背包问题等**---[算法分析设计-回溯算法](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/#more)
+- **code_06_09：回溯算法，0-1背包问题等**---[算法分析设计-回溯算法](http://www.fanandjiu.com/article/88875984.html)
 
-- **code_06_16：分支定界算法，0-1背包问题，指派问题等**---[算法分析设计-分治定界](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E5%88%86%E6%94%AF%E5%AE%9A%E7%95%8C/)
+- **code_06_16：分支定界算法，0-1背包问题，指派问题等**---[算法分析设计-分治定界](http://www.fanandjiu.com/article/7ec37233.html)
 
-- **code_06_18：概率算法，三门问题，相亲问题等**---[算法分析设计-概率算法](https://fanandjiu.com/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1-%E6%A6%82%E7%8E%87%E7%AE%97%E6%B3%95/)
+- **code_06_18：概率算法，三门问题，相亲问题等**---[算法分析设计-概率算法](http://www.fanandjiu.com/article/cbdbd236.html)
 
